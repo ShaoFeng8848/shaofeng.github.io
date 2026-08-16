@@ -1,0 +1,14 @@
+{
+  "title": "QQ频道删除帖子审计中心",
+  "pageSize": 8,
+  "columns": [
+    { "key": "time",      "label": "时间",     "sortable": true },
+    { "key": "guild",     "label": "频道",     "sortable": false },
+    { "key": "channel",   "label": "子频道",   "sortable": false },
+    { "key": "postId",    "label": "帖子类型",   "sortable": false },
+    { "key": "postTitle", "label": "帖子标题", "sortable": false },
+    { "key": "operator",  "label": "操作人",   "sortable": true },
+    { "key": "author",    "label": "发帖人",   "sortable": false },
+    { "key": "reason",    "label": "删除原因", "sortable": true }
+  ]
+}
