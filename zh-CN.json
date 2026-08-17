@@ -1,0 +1,57 @@
+{
+    "hero": {
+        "title": "芍风服务系列引导网站",
+        "subtitle": "方便用户引导自己想去我们服务的网站！"
+    },
+    "products": [
+        {
+            "title": "小苹果文件传输系统",
+            "description": "更快捷的寻找到我们在被别的平台下架视频的平替版和常用资源下载",
+            "url": "../file.html",
+            "icon": "fa-file-arrow-down",
+            "image": "https://www.littleapple.top/img/home/file-transfer.jpg"
+        },
+        {
+            "title": "芍风科技工作室-BlueArchiveUI下载",
+            "description": "下载我们封装BlueArchiveUI操作系统",
+            "url": "https://shaofeng.littleapple.top/product/BlueArchiveUI/index.html",
+             "icon": "fa-server",
+            "image": "photos/BlueArchiveUI.jpg"
+        },
+        {
+            "title": "芍风科技工作室-SeewoWindows10下载",
+            "description": "Seewo专用，上课流畅！",
+            "url": "https://shaofeng.littleapple.top/product/seewo/index.html",
+             "icon": "fa-cloud",
+            "image": "photos/Seewo.jpg"
+        },
+        {
+            "title": "小苹果工作室-LittleApple系统系列",
+            "description": "下载到小苹果官方系统系列！",
+            "url": "https://shaofeng.littleapple.top/product/littleapple-cloud-system/index.html",
+            "icon": "fa-download",
+            "image": "photos/littleapple.jpg
+        },
+        {
+            "title": "芍风科技客服帮助网站",
+            "description": "遇到连技术人员都解决不了的问题嘛？还是说要尝试与我们取得联系？",
+            "url": "https://shaofeng.littleapple.top/Customer/index.html",
+            "icon": "fa-magnifying-glass",
+            "image": "photos/Customer.png"
+        },
+        {
+            "title": "小苹果工作室用户协议",
+            "description": "当心自己会不小心违法我们的用户协议嘛？点击这里查看我们完整的用户协议",
+            "url": "../user/user_zh-cn.htm",
+            "icon": "fa-file-contract",
+            "image": "assets/images/terms.jpg"
+        },
+        {
+            "title": "小苹果起始站",
+            "description": "目前可以高度定制化的起始站网页，来打理你的游览器主页吧！",
+            "url": "../startweb.html",
+            "icon": "fa-house",
+            "image": "assets/images/start-page.jpg"
+        }
+    ]
+}
