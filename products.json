@@ -1,5 +1,7 @@
 [
-  { "title": "芍风云控制台", "desc": "一站式资源管理平台", "url": "https://example.com" },
-  { "title": "芍风数据看板", "desc": "实时业务数据可视化", "url": "https://example.com" },
-  { "title": "芍风开放接口", "desc": "面向开发者的 API 服务", "url": "https://example.com" }
+  { "title": "芍风科技工作室-BlueArchiveUI操作系统", "desc": "蔚蓝档案玩家首选操作系统，精简流畅，更适合办公游戏", "url": "https://shaofeng.littleapple.top/product/BlueArchiveUI/index.html" },
+  { "title": "芍风科技工作室-SeewoWindows", "desc": "Seewo专用操作系统，精简流畅，没有360捆绑", "url": "https://shaofeng.littleapple.top/product/seewo/index.html" },
+  { "title": "小苹果工作室-LittleApple系统系列", "desc": "下载到小苹果官方系统系列！", "url": "https://shaofeng.littleapple.top/product/littleapple-cloud-system/index.html" },
+  { "title": "芍风科技客服帮助网站", "desc": "遇到连技术人员都解决不了的问题嘛？还是说要尝试与我们取得联系？", "url": "https://shaofeng.littleapple.top/Customer/index.html" },
+  { "title": "小苹果工作室用户协议", "desc": "当心自己会不小心违法我们的用户协议嘛？点击这里查看我们完整的用户协议", "url": "https://www.littleapple.top/user/user_zh-cn.htm" }
 ]
